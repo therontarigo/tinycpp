@@ -1,3 +1,20 @@
+
+The files bmap.h hbmap.h tglist.h are part of libulz.
+libulz is licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1.
+
+tinycpp appears to meet the conditions for unrestricted use in the license
+document's Terms and Conditions Section 5, paragraph 4:
+
+    If such an object file uses only numerical parameters, data
+  structure layouts and accessors, and small macros and small inline
+  functions (ten lines or less in length), then the use of the object
+  file is unrestricted, regardless of whether it is legally a derivative
+  work.  (Executables containing this object code plus portions of the
+  Library will still fall under Section 6.)
+
+The full GNU LESSER GENERAL PUBLIC LICENSE license document may be found in the
+file COPYING.LGPL.
+
 tinycpp is licensed under the following standard MIT license:
 
 ----------------------------------------------------------------------
